@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripTrackerBackService", "TripTrackerBackService\TripTrackerBackService.csproj", "{E680E9E4-FB48-49AD-8EB9-84A15BBA0AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E680E9E4-FB48-49AD-8EB9-84A15BBA0AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E680E9E4-FB48-49AD-8EB9-84A15BBA0AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E680E9E4-FB48-49AD-8EB9-84A15BBA0AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E680E9E4-FB48-49AD-8EB9-84A15BBA0AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821A9E07-EF5B-41E6-AC7F-B1F710C9A4FC}
+	EndGlobalSection
+EndGlobal
